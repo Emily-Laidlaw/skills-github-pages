@@ -1,4 +1,4 @@
 ---
-title: Welcome to "EMZ ARTS"
+title: Welcome to my blog
 ---
 
